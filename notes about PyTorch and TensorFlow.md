@@ -12,9 +12,9 @@
 | **Documentation** | Excellent with research focus | Extensive with production focus |
 | **Mobile/Edge Deployment** | PyTorch Mobile (limited) | TensorFlow Lite (mature) |
 | **Community** | Research-oriented, academic | Industry and production-oriented |
-| **Best For Students** | ✅ Recommended | Good but more complex |
-| **Speed of Learning** | ✅ Fastest | Moderate |
-| **Graduation Projects** | ✅ Ideal choice | Viable but unnecessary complexity |
+| **Best For Students** | Recommended | Good but more complex |
+| **Speed of Learning** | Fastest | Moderate |
+| **Graduation Projects** | Ideal choice | Viable but unnecessary complexity |
 | **Research Paper Implementations** | Most papers use PyTorch | Fewer recent implementations |
 | **Flexibility** | High - dynamic graphs | High in v2.0, limited in v1.x |
 | **Production Deployment** | Improving but limited | Excellent ecosystem |
